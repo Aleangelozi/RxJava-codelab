@@ -1,3 +1,5 @@
+package observables;
+
 import io.reactivex.Observable;
 
 public class ObservableError8 {

@@ -1,3 +1,5 @@
+package observables;
+
 import io.reactivex.Observable;
 import io.reactivex.observables.ConnectableObservable;
 
